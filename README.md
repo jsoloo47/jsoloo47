@@ -173,7 +173,7 @@
 <a href="https://juansolano.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/sol_47">
+<a href="https://twitter.com/sol47_">
 <img src="https://img.shields.io/badge/twitter-FE7500?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/juan-solano47">

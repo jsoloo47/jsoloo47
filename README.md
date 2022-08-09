@@ -4,8 +4,10 @@
 
 <br/>
 
-### <div align="center"> Hi, I’m Juan 👋🏽 </div>
-<div>Full-stack software engineer</div>
+### <div align="center"> Hi, I’m Juan 👋🏽 
+	<div>Full-stack software engineer</div>
+</div>
+
 
 <br>
 

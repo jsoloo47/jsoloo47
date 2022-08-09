@@ -4,11 +4,8 @@
 
 <br/>
 
-### <div align="center"> Hi, I’m Juan 👋🏽
-	<br>
-	a full-stack software engineer
-	<br/>
-     </div>
+### <div align="center"> Hi, I’m Juan 👋🏽 </div>
+<div>Full-stack software engineer</div>
 
 <br>
 

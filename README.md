@@ -34,7 +34,7 @@
 ---
 
 <br>
-
+<!--
 <!-- PROJECTS -->
 
 <h2 align="center" color="white">Projects</h2>
@@ -131,7 +131,7 @@
 	</table>
 </div>
 <br />
-
+-->
 ---
 
 <br>

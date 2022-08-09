@@ -34,14 +34,14 @@
 ---
 
 <br>
-<!--
-<!-- PROJECTS -->
+
+<!-- PROJECTS 
 
 <h2 align="center" color="white">Projects</h2>
 <div align="center">
 	<table>
 		<tr>
-			<!--project 1 -->
+			<!--project 1 
 			<td width="50%">
 				<h3 align="center" color="white">Full Stack Interview Questions</h2>
 				<div align="center" > 
@@ -51,18 +51,18 @@
 					<br>
 					<br>
 					<p>
-                        <!--repo --> 
+                        <!--repo  
 						<a href='https://github.com/20jasper/interview-question-api'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-                        <!--live site --> 
+                        <!--live site  
 						<a href="https://full-stack-interview-prep.up.railway.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
 					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - Study for a full stack web development interview</p>
 				</div>
-			<!--project 2 -->
+			<!--project 2 
 			<td width="50%">
 				<h3 align="center" color="white">COVID–19 Tracker</h2>
 				<div align="center" > 
@@ -72,11 +72,11 @@
 					<br>
 					<br>
 					<p>
-                        <!--repo --> 
+                        <!--repo  
 						<a href='https://github.com/20jasper/covid-tracker'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-                        <!--live site --> 
+                        <!--live site  
 						<a href="https://coronavirusworlddata.netlify.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
@@ -85,7 +85,7 @@
 				</div>
 			</td>
 		<tr>
-			<!--project 3 -->
+			<!--project 3 
 			<td width="50%">
 				<h3 align="center" color="white">Tic-Tac-Toe</h2>
 				<div align="center" > 
@@ -95,11 +95,11 @@
 					<br>
 					<br>
 					<p>
-                        <!--repo --> 
+                        <!--repo  
 						<a href='https://github.com/20jasper/tic-tac-toe'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-                        <!--live site --> 
+                        <!--live site  
 						<a href="https://2-player-tic-tac-toe.netlify.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
@@ -107,7 +107,7 @@
 					<p><strong>JavaScript, CSS3, HTML5</strong> - A 2–player tic-tac-toe game with win and draw validation</p>
 				</div>
 			</td>
-			<!--project 4 -->
+			<!--project 4 
 			<td width="50%">
 				<h3 align="center" color="white">SVG Faces</h2>
 				<div align="center" > 
@@ -117,11 +117,11 @@
 					<br>
 					<br>
 					<p>
-                        <!--repo --> 
+                        <!--repo  
 						<a href='https://github.com/20jasper/SVG-faces'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-                        <!--live site --> 
+                        <!--live site  
 						<a href="https://svg-faces.netlify.app/">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	

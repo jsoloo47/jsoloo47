@@ -28,7 +28,7 @@
 
 <p align="center">A creative and detail-oriented, software engineer with a deep interest in narrow applications of AI.</p>
 
-### <div align="center">Go to <a href="https://juansolano.netlify.app/">my portfolio site</a> for more information!</div>
+### <div align="center">Go to <a href="https://juansolano.netlify.app/" target="_blank">my portfolio site</a> for more information!</div>
 
 <br/>
 

@@ -45,8 +45,8 @@
 			<td width="50%">
 				<h3 align="center" color="white">Full Stack Interview Questions</h2>
 				<div align="center" > 
-					<a href="https://full-stack-interview-prep.up.railway.app/">
-						<img src="https://github.com/bytesbybianca/readme-assets/raw/main/project-images/fullStackInterviewQuestions.gif?raw=true" alt="An app that generates random interview questions" />
+					<a href="https://juansolano.netlify.app/">
+						<img src="projectImages/filmo-prev.png" alt="An app that generates random movies to build a watchlist" />
 					</a>
 					<br>
 					<br>

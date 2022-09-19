@@ -52,15 +52,15 @@
 					<br>
 					<p>
 			<!--repo-->
-						<a href='https://github.com/20jasper/interview-question-api'>
+						<a href='https://github.com/jsoloo47/Filmo'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 			<!--live site-->
-						<a href="https://full-stack-interview-prep.up.railway.app/">
+						<a href="https://juansolano.netlify.app">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - Study for a full stack web development interview</p>
+					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - App to generate and build a movie watchlist</p>
 				</div>
 			<!--project 2 
 			<td width="50%">

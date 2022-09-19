@@ -127,11 +127,12 @@
 						</a>	
 					</p>
 					<p><strong>React, D3.js, CSS3, HTML5</strong> - Modular faces built with inline SVG</p>
-				</div>
+				</div> -->
 	</table>
 </div>
 <br />
--->
+
+---
 
 <br>
 

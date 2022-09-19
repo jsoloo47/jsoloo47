@@ -36,13 +36,12 @@
 
 <br>
 
-PROJECTS 
-
+<!-- PROJECTS -->
 <h2 align="center" color="white">Projects</h2>
 <div align="center">
 	<table>
 		<tr>
-			project 1 
+		<!-- project 1  -->
 			<td width="50%">
 				<h3 align="center" color="white">Full Stack Interview Questions</h2>
 				<div align="center" > 
@@ -133,7 +132,6 @@ PROJECTS
 </div>
 <br />
 -->
----
 
 <br>
 

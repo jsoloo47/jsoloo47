@@ -60,7 +60,7 @@
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5, Node</strong> - App to generate and build a movie watchlist</p>
+					<p><strong>Built with Node, Express, MovieDB API, MongoDB, and EJS.</strong></p>
 				</div>
 			<!--project 2 
 			<td width="50%">

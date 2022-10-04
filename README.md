@@ -43,7 +43,7 @@
 		<tr>
 		<!-- project 1  -->
 			<td width="50%">
-				<h3 align="center" color="white">Full Stack Interview Questions</h2>
+				<h3 align="center" color="white">Filmo - Build a better watchlist</h2>
 				<div align="center" > 
 					<a href="https://juansolano.netlify.app/">
 						<img src="projectImages/filmo-prev.png" alt="An app that generates random movies to build a watchlist" />

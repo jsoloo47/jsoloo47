@@ -66,22 +66,22 @@
 			<td width="50%">
 				<h3 align="center" color="white">SentenceSmith</h2>
 				<div align="center" > 
-					<a href="https://juansolano.netlify.app/">
+					<a href="https://github.com/jsoloo47/SentenceSmith">
 						<img src="./SentenceSmith.gif" alt="" height="200px" />
 					</a>
 					<br>
 					<br>
 					<p>
                         			<!--repo -->
-						<a href='https://github.com/20jasper/covid-tracker'>
+						<a href='https://github.com/jsoloo47/SentenceSmith'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
                         			<!--live site -->
-						<a href="https://coronavirusworlddata.netlify.app/">
+						<a href="https://juansolano.netlify.app">
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
 						</a>	
 					</p>
-					<p><strong>JavaScript, CSS3, HTML5</strong> - See the current world COVID deaths and cases in real time</p>
+					<p><strong>React, Express, MongoDB, Node</strong> - Create amazing content with the power of AI!</p>
 				</div>
 			</td>
 		<tr>

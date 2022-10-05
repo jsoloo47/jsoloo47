@@ -64,10 +64,10 @@
 				</div>
 		<!-- project 2 -->
 			<td width="50%">
-				<h3 align="center" color="white">COVID–19 Tracker</h2>
+				<h3 align="center" color="white">SentenceSmith</h2>
 				<div align="center" > 
-					<a href="https://coronavirusworlddata.netlify.app/">
-						<img src="https://github.com/20jasper/covid-tracker/raw/main/CovidTracker.jpg" alt="" height="200px" />
+					<a href="https://juansolano.netlify.app/">
+						<img src="./SentenceSmith.gif" alt="" height="200px" />
 					</a>
 					<br>
 					<br>

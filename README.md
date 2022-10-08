@@ -57,7 +57,7 @@
 						</a>  
 						<!--live site-->
 						<a href="https://juansolano.netlify.app">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=002D62"/>
 						</a>	
 					</p>
 					<p><strong>Built with Node, Express, MovieDB API, MongoDB, and EJS.</strong></p>
@@ -78,7 +78,7 @@
 						</a>  
                         			<!--live site -->
 						<a href="https://juansolano.netlify.app">
-							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=FE7500"/>
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=002D62"/>
 						</a>	
 					</p>
 					<p><strong>React, Express, MongoDB, Node</strong> - Create amazing content with the power of AI!</p>
@@ -128,15 +128,15 @@
 ## Connect with me
 
 <a href="https://juansolano.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-FE7500?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Portfolio-002D62?style=for-the-badge" alt="Portfolio Site" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/sol47_">
-<img src="https://img.shields.io/badge/twitter-FE7500?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/twitter-002D62?acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/juan-solano47">
-<img src="https://img.shields.io/badge/linkedin-FE7500?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-002D62?E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>  
 <a href="https://angel.co/u/juan-solano-5">
-<img src="https://img.shields.io/badge/AngelList-FE7500?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/AngelList-002D62?E77B5.svg?&style=for-the-badge&logo=AngelList&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
 </a>  
 </div>

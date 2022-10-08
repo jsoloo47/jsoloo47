@@ -1,5 +1,5 @@
 <div align="center">
-<img src="default.svg" align="center" style="width: 100%" alt="Home Logo" />
+<img src="cover.png" align="center" style="width: 100%" alt="Home Logo" />
 </div>
 
 <br/>

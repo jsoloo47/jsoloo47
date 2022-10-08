@@ -100,11 +100,11 @@
 ### Frontend
 
 <div align="center">  
-<img style="margin: 10px" src="/svg-icons/react.svg" alt="React" height="5" />  
-<img style="margin: 10px" src="/svg-icons/CSS3.svg" alt="CSS3" height="5" />  
-<img style="margin: 10px" src="/svg-icons/HTML5.svg" alt="HTML5" height="5" />  
+<img style="margin: 10px" src="/svg-icons/react.svg" alt="React" height="75" />  
+<img style="margin: 10px" src="/svg-icons/CSS3.svg" alt="CSS3" height="75" />  
+<img style="margin: 10px" src="/svg-icons/HTML5.svg" alt="HTML5" height="75" />  
 <img style="margin: 10px" src="/svg-icons/javascript.svg" alt="JavaScript" height="75" />  
-<img style="margin: 10px" src="/svg-icons/D3js.svg" alt="D3.js" height="5" />  
+<img style="margin: 10px" src="/svg-icons/D3js.svg" alt="D3.js" height="75" />  
 </div>
 
 </td><td valign="top" width="50%">

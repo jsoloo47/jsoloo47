@@ -43,16 +43,16 @@
 		<tr>
 		<!-- project 1  -->
 			<td width="50%">
-				<h3 align="center" color="white">Filmo - Build a better watchlist</h2>
+				<h3 align="center" color="white">Zentor - Your Journey, Your Zen</h2>
 				<div align="center" > 
 					<a href="https://juansolano.netlify.app/">
-						<img src="projectImages/filmo-prev.png" alt="An app that generates random movies to build a watchlist" />
+						<img src="projectImages/Zentor.gif" alt="Zentor is a self-improvements Journal powered by LLM" />
 					</a>
 					<br>
 					<br>
 					<p>
 						<!--repo-->
-						<a href='https://github.com/jsoloo47/Filmo'>
+						<a href='https://github.com/jsoloo47/Zentor'>
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
 						<!--live site-->
@@ -60,9 +60,34 @@
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=002D62"/>
 						</a>	
 					</p>
-					<p><strong>Built with Node, Express, MovieDB API, MongoDB, and EJS.</strong></p>
+					<p><strong>Built with Next.js & (GPT-4 + Open Source) & RAG (Retrieval-Augmented Generation) technologies.</strong></p>
 				</div>
+			</td>
 		<!-- project 2 -->
+			<td width="50%">
+				<h3 align="center" color="white">OCR-PDF - Open Source Invoice Processing</h2>
+				<div align="center" > 
+					<a href="https://github.com/jsoloo47/OCR-PDF">
+						<img src="projectImages/OCR.png" alt="" height="200px" />
+					</a>
+					<br>
+					<br>
+					<p>
+                        			<!--repo -->
+						<a href='https://github.com/jsoloo47/OCR-PDF'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+                        			<!--live site -->
+						<a href="https://juansolano.netlify.app">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=002D62"/>
+						</a>	
+					</p>
+					<p><strong>React, Express, MongoDB, Node</strong> - Create amazing content with the power of AI!</p>
+				</div>
+			</td>
+		</tr>
+		<tr>
+		<!-- project 3 -->
 			<td width="50%">
 				<h3 align="center" color="white">SentenceSmith</h2>
 				<div align="center" > 
@@ -84,7 +109,29 @@
 					<p><strong>React, Express, MongoDB, Node</strong> - Create amazing content with the power of AI!</p>
 				</div>
 			</td>
-		<tr>
+			<!-- project 4  -->
+			<td width="50%">
+				<h3 align="center" color="white">Filmo - Build a better watchlist</h2>
+				<div align="center" > 
+					<a href="https://juansolano.netlify.app/">
+						<img src="projectImages/filmo-prev.png" alt="An app that generates random movies to build a watchlist" />
+					</a>
+					<br>
+					<br>
+					<p>
+						<!--repo-->
+						<a href='https://github.com/jsoloo47/Filmo'>
+							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+						</a>  
+						<!--live site-->
+						<a href="https://juansolano.netlify.app">
+							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=002D62"/>
+						</a>	
+					</p>
+					<p><strong>Built with Node, Express, MovieDB API, MongoDB, and EJS.</strong></p>
+				</div>
+			</td>
+		</tr>
 	</table>
 </div>
 <br />

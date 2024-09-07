@@ -4,7 +4,7 @@
 
 <br/>
 
-### <div align="center"> Hi, I’m Juan 👋🏽 <div>Full-Stack JavaScript Dev</div></div>
+### <div align="center"> Hi, I’m Juan 👋🏽 <div>I like building cool stuff :)</div></div>
 
 
 <br>

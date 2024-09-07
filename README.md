@@ -82,7 +82,7 @@
 							<img src="https://img.shields.io/badge/-live_site-green?style=for-the-badge&color=002D62"/>
 						</a>	
 					</p>
-					<p><strong>React, Express, MongoDB, Node</strong> - Create amazing content with the power of AI!</p>
+					<p><strong>React, Express, MongoDB, Node</strong> - Feel free to contribute to the project :)</p>
 				</div>
 			</td>
 		</tr>

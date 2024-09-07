@@ -26,7 +26,7 @@
 
 <br/>
 
-<p align="center">A creative and detail-oriented, software engineer with a deep interest in narrow applications of AI.</p>
+<p align="center">A creative and detail-oriented, full-stack software engineer with a deep interest in narrow applications of AI.</p>
 
 ### <div align="center">Check out <a href="https://juansolano.netlify.app/" target="_blank">my portfolio site</a> for more information!</div>
 

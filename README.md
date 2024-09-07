@@ -45,7 +45,7 @@
 			<td width="50%">
 				<h3 align="center" color="white">Zentor - Your Journey, Your Zen</h2>
 				<div align="center" > 
-					<a href="https://juansolano.netlify.app/">
+					<a href="https://github.com/jsoloo47/Zentor">
 						<img src="projectImages/Zentor.gif" alt="Zentor is a self-improvements Journal powered by LLM" />
 					</a>
 					<br>
